@@ -26,3 +26,8 @@ http://themeforest.net/item/shopper-magento-theme-responsive-retina-ready/full_s
 * IWD Onepage Checkout for Magento
 http://www.interiorwebdesign.com/magento/magento-one-step-checkout-module.html
 
+**Install**
+
+1. Check prerequisites
+2. Copy CSS in responsive.css and paste it to the bottom of responsive.css in folder /skin/frontend/default/shopper/css/override.css
+3. more to come
