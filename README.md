@@ -29,5 +29,5 @@ http://www.interiorwebdesign.com/magento/magento-one-step-checkout-module.html
 **Install**
 
 1. Check prerequisites
-2. Copy CSS in responsive.css and paste it to the bottom of responsive.css in folder /skin/frontend/default/shopper/css/override.css
+2. Copy CSS and paste it to the bottom of responsive.css in folder /skin/frontend/default/shopper/css/override.css
 3. more to come
